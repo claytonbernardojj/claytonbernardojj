@@ -82,7 +82,7 @@ seu_usuario@github:~$ _
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Nome+do+Projeto+1" />
 </a>
-<p align="center">Breve descrição do projeto — troque pelo seu conteúdo real.</p>
+<p align="center">Script em Python que automatiza uma tarefa do dia a dia, aplicando lógica de algoritmos na prática.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-6a00f4?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -91,7 +91,7 @@ seu_usuario@github:~$ _
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Nome+do+Projeto+2" />
 </a>
-<p align="center">Breve descrição do projeto — troque pelo seu conteúdo real.</p>
+<p align="center">Um banco de dados estruturado em SQL para organizar e consultar informações de forma eficiente.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-6a00f4?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -123,7 +123,7 @@ seu_usuario@github:~$ _
 ## `>_` Troféus
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=claytonbernardojj&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=claytonbernardojj&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -133,8 +133,6 @@ seu_usuario@github:~$ _
 <div align="center">
 <img src="https://raw.githubusercontent.com/claytonbernardojj/claytonbernardojj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> Para ativar essa animação, configure o **GitHub Action** `platane/snk` no seu repositório de perfil. Sem essa Action, a imagem não é gerada.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
