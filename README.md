@@ -18,8 +18,8 @@
 usuario:
   nome: "Clayton"
   localizacao: "Rio de Janeiro, Brasil 🇧🇷"
-  objetivo: "Cientista de Dados"
-  interesse_por_codigo: "Desde sempre codando 💜"
+  objetivo: "Cientista de Dados."
+  interesse_por_codigo: "Curto estudar Programação."
   status: "Em desenvolvimento contínuo..."
   modo: "Aprendizado ativo"
 ```
@@ -80,7 +80,7 @@ seu_usuario@github:~$ _
 <tr>
 <td width="50%">
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Nome+do+Projeto+1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Projeto+em+Breve" />
 </a>
 <p align="center">Script em Python que automatiza uma tarefa do dia a dia, aplicando lógica de algoritmos na prática.</p>
 <p align="center">
@@ -89,7 +89,7 @@ seu_usuario@github:~$ _
 </td>
 <td width="50%">
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Nome+do+Projeto+2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Projeto+em+Breve" />
 </a>
 <p align="center">Um banco de dados estruturado em SQL para organizar e consultar informações de forma eficiente.</p>
 <p align="center">
