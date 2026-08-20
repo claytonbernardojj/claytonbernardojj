@@ -144,7 +144,7 @@ seu_usuario@github:~$ _
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-6a00f4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/claytonbernardojj"><img src="https://img.shields.io/badge/Instagram-6a00f4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Discord-6a00f4?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:claytonbernardojunqueira@gmail.com"><img src="https://img.shields.io/badge/Email-6a00f4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="claytonbernardojunqueira@gmail.com"><img src="https://img.shields.io/badge/Email-6a00f4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
