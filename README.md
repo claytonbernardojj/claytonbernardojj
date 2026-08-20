@@ -29,7 +29,7 @@ usuario:
 ## `>_` Terminal — Objetivos Atuais
 
 ```bash
-seu_usuario@github:~$ cat objetivos.txt
+claytonbernardojj@github:~$ cat objetivos.txt
 
 [✔] Estudando Algoritmos
 [ ] Aprender Python
@@ -37,7 +37,7 @@ seu_usuario@github:~$ cat objetivos.txt
 [ ] Dominar Git & GitHub
 [ ] Python aplicado a Machine Learning
 
-seu_usuario@github:~$ _
+claytonbernardojj@github:~$ _
 ```
 
 <br>
