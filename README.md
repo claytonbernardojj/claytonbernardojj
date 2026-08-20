@@ -80,18 +80,18 @@ seu_usuario@github:~$ _
 <tr>
 <td width="50%">
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Nome+do+Projeto+1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Projeto+em+Breve+1" />
 </a>
-<p align="center">Breve descrição do projeto — troque pelo seu conteúdo real.</p>
+<p align="center">Projeto em Breve</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-6a00f4?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 </td>
 <td width="50%">
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Nome+do+Projeto+2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=B388FF&center=true&width=380&lines=%F0%9F%93%81+Projeto+em+Breve+2" />
 </a>
-<p align="center">Breve descrição do projeto — troque pelo seu conteúdo real.</p>
+<p align="center">Projeto em breve.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-6a00f4?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -134,7 +134,6 @@ seu_usuario@github:~$ _
 <img src="https://raw.githubusercontent.com/claytonbernardojj/claytonbernardojj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Para ativar essa animação, configure o **GitHub Action** `platane/snk` no seu repositório de perfil. Sem essa Action, a imagem não é gerada.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
